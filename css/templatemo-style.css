@@ -288,8 +288,10 @@ button:focus {
 }
 
 .step-intro {
+    font-size: 2rem !important;
     font-weight: 600;
     color: #2980b9 !important;
+    line-height: 2.5rem !important;
 }
 
 .form-control,
@@ -750,7 +752,8 @@ textarea {
         padding-top: 0;
     }
     .cd-hero-slider .tm-text {
-        font-size: 1.5rem;
+        font-size: 2rem;
+        font-family: Andale Mono, monospace;
     }
 }
 
